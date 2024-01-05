@@ -1,0 +1,11 @@
+img{
+    inline-size: 600px;
+}
+table{
+    border-collapse: collapse;
+     
+}
+th,td{
+    border:2px solid pink;
+    margin:10px 20px 30px 40px ;
+}
